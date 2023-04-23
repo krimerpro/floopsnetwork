@@ -4,7 +4,8 @@
 <!-- BEGIN OF page cover -->
 <div class="hh-cover page-cover">
 <!-- Cover Background -->
-<div class="cover-bg pos-abs full-size bg-img  bg-blur-0" data-image-src="{{ asset('img/bg-default.png') }}"></div>
+<!-- <div class="cover-bg pos-abs full-size bg-img  bg-blur-0" data-image-src="{{ asset('img/bg-default.png') }}"></div> -->
+<div class="cover-bg pos-abs full-size bg-img  bg-blur-0"></div>
 
 <!-- Transluscent mask as filter -->
 <div class="cover-bg-mask pos-abs full-size bg-color" data-bgcolor="rgba(0, 0, 0, 0.81)"></div>
