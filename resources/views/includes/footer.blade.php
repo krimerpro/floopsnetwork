@@ -1,90 +1,66 @@
-<!-- Footer -->
-<footer class="bg-off-white footer">
-    <div class="footer-lower bg-blue position-relative">
-        <div class="container">
-            <div class="footer-copyright-text footer-copyright-text-white">
-                <p>Copyright ©2023 Erudex. Designed & Developed By <span style="color:blue;font-weight:bold">Erudex Team</span></a></p>
-            </div>
-        </div>
+<!-- BEGIN OF page footer -->
+<footer id="site-footer" class="site-footer">
+    <!-- social networks -->
+    <div class="contact">
+        <ul class="socials">
+            <li><a class="circ-btn" href="#"><i class="icon ion-social-facebook"></i></a></li>
+            <li><a class="circ-btn" href="#"><i class="icon ion-social-twitter"></i></a></li>
+        </ul>
     </div>
-</footer>
-<!-- Footer -->
 
-<!-- Scroll-top -->
-<div class="scroll-top" id="scrolltop">
-    <div class="scroll-top-inner">
-        <i class="icofont-long-arrow-up"></i>
+    <!-- Notes -->
+    <div class="note">
+        <p> &copy; 2023 - by <a href="#"><span class="marked">FLOOPSNETWORK TEAM</span></a> </p>
     </div>
-</div>
-<!-- Scroll-top -->
 
-<!-- Topbar-side-modal -->
-<div class="side-modal-wrapper">
-    <div class="side-modal">
-        <div class="side-modal-header">
-            <div class="side-modal-logo">
-                <a href="#"><img src="{{ asset('images/logo.png') }}" alt="logo"></a>
-            </div>
-            <div class="side-modal-close">
-                <i class="icofont-close"></i>
-            </div>
-        </div>
-        <div class="side-modal-body">
-            <div class="sidebar-info-content">
-                <h3>Follow Us</h3>
-                <ul class="social-list">
-                    <li>
-                        <a href="https://twitter.com/ErudexAI" target="_blank"><i class="icofont-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://t.me/ErudexAiPortal" target="_blank"><i class="icofont-paper-plane"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Topbar-side-modal -->
-
-<!-- Search-overlay -->
-<div class="search-overlay">
-    <div class="search-close">
-        <i class="icofont-close"></i>
-    </div>
-    <div class="search-form-area">
-        <div class="search-area-logo">
-            <a href="#">
-                <img src="{{ asset('images/logo-white.png') }}" alt="logo">
-            </a>
-        </div>
-        <form>
-            <div class="form-group search-form-group">
-                <input type="text" placeholder="Search..." class="form-control" autofocus="autofocus">
-                <button>
-                    <i class="icofont-search-1"></i>
-                </button>
-            </div>
+    <!-- subscription form -->
+    <div class="subscription">
+        <h3 class="title">Subscribe to Newsletter : </h3>
+        <!-- Begin Ajax subscription form  subscription-form -->
+        <form id="subscription-form" class="form send_email_form" method="post" action="#">
+            <p class="feedback gone form-success-visible">Thank you for your subscription. We will inform you.</p>
+            <input id="reg-email" class="input form-success-invisible" name="email" type="email" required placeholder="your@email.address" data-validation-type="email">
+            <button id="submit-email" class="btn circ-btn form-success-invisible" name="submit_email">
+                <span class="ion-checkmark"></span>
+            </button>
         </form>
     </div>
-</div>
-<!-- Search-overlay -->
 
-<!-- essential js -->
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ asset('/js/jquery.min.js') }}"></script>
-<script src="{{ asset('/js/bootstrap.bundle.min.js') }}"></script>
-<!-- magnific popup js -->
-<script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-<!-- owl carousel js -->
-<script src="{{ asset('/js/owl.carousel.min.js') }}"></script>
-<!-- nice select js -->
-<script src="{{ asset('/js/jquery.nice-select.min.js') }}"></script>
-<!-- form ajazchimp js -->
-<script src="{{ asset('/js/jquery.ajaxchimp.min.js') }}"></script>
-<!-- form validator js  -->
-<script src="{{ asset('/js/form-validator.min.js') }}"></script>
-<!-- contact form js -->
-<script src="{{ asset('/js/contact-form-script.js') }}"></script>
-<!-- meanmenu js -->
-<script src="{{ asset('/js/jquery.meanmenu.min.js') }}"></script>
-<!-- main js -->
-<script src="{{ asset('/js/script.js') }}"></script>
+
+    <!-- Arrows Scroll down arrow -->
+    <!-- Move it next to fp nav using javascript -->
+    <div class="s-footer scrolldown">
+        <a class="down btn">
+            <span class="text">Scroll</span>
+        </a>
+    </div>
+    <!-- End of Scroll down arrow -->
+</footer>
+<!-- END OF site footer -->
+
+
+<!-- scripts -->
+<!-- All Javascript plugins goes here -->
+<!--		<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>-->
+<script src="{{ asset('js/vendor/jquery-1.12.4.min.js') }}"></script>
+<!-- All vendor scripts -->
+<script src="{{ asset('js/vendor/scrolloverflow.min.js') }}"></script>
+<script src="{{ asset('js/vendor/all.js') }}"></script>
+<script src="{{ asset('js/particlejs/particles.min.js') }}"></script>
+
+
+<!-- Detailed vendor scripts : for manual update -->
+<!--<script src="./js/vendor/swiper.min.js"></script>
+<script src="./js/vendor/scrolloverflow.min.js"></script>
+<script src="./js/vendor/jquery.fullPage.min.js"></script>
+<script src="./js/vegas/vegas.min.js"></script>
+<script src="./js/vendor/jquery.maximage.js"></script>-->
+
+<!-- Countdown script -->
+<script src="{{ asset('js/jquery.downCount.js') }}"></script>
+
+<!-- Form script -->
+<script src="{{ asset('js/form_script.js') }}"></script>
+
+<!-- Javascript main files -->
+<script src="{{ asset('js/main.js') }}"></script>

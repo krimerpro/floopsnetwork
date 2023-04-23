@@ -1,38 +1,34 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="AI ERUDEX | MACHINE LEARNING">
-<meta name="keywords" content="ai, erudex, smartchain, machinelearning, blockchain, cryptocurrency, bsc">
-<meta name="author" content="ERUDEX">
+<meta name="description" content="FLOOPS NETWORK | BSC">
+<meta name="keywords" content="floops, network, floopsnetwork, smartchain, blockchain, cryptocurrency, bsc">
+<meta name="author" content="FLOOPSNETWORK">
 
-<title>AI ERUDEX | MACHINE LEARNING</title>
-<link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.png') }}" sizes="16x16">
+<title>FLOOPS NETWORK | BSC</title>
+<link rel="icon" type="image/x-icon" href="{{ asset('img/logo-img.png') }}" sizes="16x16">
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,700" rel="stylesheet">
 
-<link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
+<!-- Web fonts and Web Icons -->
+<link rel="stylesheet" href="{{ asset('fonts/opensans/stylesheet.css') }}">
+<link rel="stylesheet" href="{{ asset('fonts/montserrat/stylesheet.css') }}">
+<link rel="stylesheet" href="{{ asset('fonts/roboto/stylesheet.css') }}">
+<link rel="stylesheet" href="{{ asset('fonts/ionicons.min.css') }}">
 
-<!-- bootstrap css -->
-<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" type="text/css" media="all" />
-<!-- animate css -->
-<link rel="stylesheet" href="{{ asset('css/animate.min.css') }}" type="text/css" media="all" />
-<!-- owl carousel css -->
-<link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}"  type="text/css" media="all" />
-<link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}"  type="text/css" media="all" />
-<!-- meanmenu css -->
-<link rel="stylesheet" href="{{ asset('css/meanmenu.min.css') }}" type="text/css" media="all" />
-<!-- magnific popup css -->
-<link rel="stylesheet" href="{{ asset('css/magnific-popup.min.css') }}" type="text/css" media="all" />
-<!-- boxicons css -->
-<link rel='stylesheet' href="{{ asset('css/icofont.min.css') }}" type="text/css" media="all" />
-<!-- flaticon css -->
-<link rel='stylesheet' href="{{ asset('css/flaticon.css') }}" type="text/css" media="all" />
-<!-- nice select css -->
-<link rel="stylesheet" href="{{ asset('css/nice-select.css') }}" type="text/css" media="all" />
-<!-- style css -->
-<link rel="stylesheet" href="{{ asset('css/style.css') }}" type="text/css" media="all" />
-<!-- responsive css -->
-<link rel="stylesheet" href="{{ asset('css/responsive.css') }}" type="text/css" media="all" />
+<!-- Vendor CSS style -->
+<link rel="stylesheet" href="{{ asset('css/pageloader.css') }}">
+
+<!-- Uncomment below to load individualy vendor CSS -->
+<link rel="stylesheet" href="{{ asset('css/foundation.min.css') }}">
+<link rel="stylesheet" href="{{ asset('js/vendor/swiper.min.css') }}">
+<link rel="stylesheet" href="{{ asset('js/vendor/jquery.fullpage.min.css') }}">
+<link rel="stylesheet" href="{{ asset('js/vegas/vegas.min.css') }}">
+
+<!-- Main CSS files -->
+<link rel="stylesheet" href="{{ asset('css/main.cs') }}s">
+<!-- alt layout -->
+<link rel="stylesheet" href="{{ asset('css/style-color2.css') }}">
+
+<script src="{{ asset('js/vendor/modernizr-2.7.1.min.js') }}"></script>
