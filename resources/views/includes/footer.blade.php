@@ -4,7 +4,7 @@
     <div class="contact">
         <ul class="socials">
             <li><a class="circ-btn" href="https://floops-network.gitbook.io/floops-network/"><i class="icon ion-social-github"></i></a></li>
-            <li><a class="circ-btn" href="https://pornhub.com"><i class="icon ion-social-twitter"></i></a></li>
+            <li><a class="circ-btn" href="https://twitter.com/fadliadityo"><i class="icon ion-social-twitter"></i></a></li>
         </ul>
     </div>
 
