@@ -142,7 +142,7 @@
                     <!-- title and description -->
                     <div class="title-desc">
                         <h4>Everything you should know</h4>
-                        <p>Introducing Flops Network - ($FLOPS) is a blockchain Next Generation exclusively to decentralized finance applications. By focusing on blockchain functionality and dedicating it specifically to decentralized finance. Flops Network provides error risk reduction and the development of specific intelligent features for the fulfillment of financial services on the blockchain.</p>
+                        <p>Introducing Floops Network - ($FLOOPS) is a blockchain Next Generation exclusively to decentralized finance applications. By focusing on blockchain functionality and dedicating it specifically to decentralized finance. Floops Network provides error risk reduction and the development of specific intelligent features for the fulfillment of financial services on the blockchain.</p>
 
                         <!--<div class="illustr">
                             <img src="/img/bg-default4.jpg" alt="Illustration">
@@ -192,7 +192,7 @@
                             <div class="item-desc">
                                 <h3>Token Locker and Launchpad</h3>
                                 <div class="desc">
-                                    <p>Token Locker and Launchpad Flops Network has no third person features. Token Generator, Token Locker, Launchpad will be integrated with each other on our platform, developers can develop their projects on our platform later with a choice of many networks such as BSC, ETH and $FLOPS. developers can create their tokens on our platform and can lock liquidity on our platform even to launch their tokens on the Flops Network Platform. </p>
+                                    <p>Token Locker and Launchpad Floops Network has no third person features. Token Generator, Token Locker, Launchpad will be integrated with each other on our platform, developers can develop their projects on our platform later with a choice of many networks such as BSC, ETH and $FLOOPS. developers can create their tokens on our platform and can lock liquidity on our platform even to launch their tokens on the Floops Network Platform. </p>
                                 </div>
                             </div>
                         </li>
