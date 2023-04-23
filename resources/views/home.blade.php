@@ -80,7 +80,7 @@
 
                     <!-- Action button -->
                     <div class="cta-btns">
-                        <a class="btn rect-btn btn-inv"  href="https://t.me/">
+                        <a class="btn rect-btn btn-inv"  href="https://t.me/floopsnetwork">
                             <span class="txt">JOIN US</span>
                             <span class="arrow-icon"></span>
                         </a>
