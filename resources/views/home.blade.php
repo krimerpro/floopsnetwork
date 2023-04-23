@@ -126,7 +126,7 @@
 
                     <!-- Action button -->
                     <div class="cta-btns">
-                        <a class="btn arrow-circ-btn"  href="https://flops-network.gitbook.io/flops-network/">
+                        <a class="btn arrow-circ-btn"  href="https://floops-network.gitbook.io/floops-network/">
                             <span class="txt">GITBOOK</span>
                             <span class="arrow-icon"></span>
                         </a>
