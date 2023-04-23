@@ -21,7 +21,7 @@
 <!-- Coutdown Clock -->
 <div class="clock clock-countdown">
   <div class="site-config"
-      data-date="04/25/2023 00:00:00"
+      data-date="04/30/2023 00:00:00"
       data-date-timezone="+0"
       ></div>
   <div class="clock-wrapper">
