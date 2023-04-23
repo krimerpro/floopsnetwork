@@ -72,7 +72,7 @@
                             </div>-->
                             <!-- Title -->
                             <header class="title">
-                                <h2><strong>FLOOPS NETWORK</strong>  arrive, are you ready?</h2>
+                                <h2 style="color:white"><strong>FLOOPS NETWORK</strong>  arrive, are you ready?</h2>
                                 <h3>Fastest and more scalable blockchain ecosystem</h3>
                             </header>
                         </div>
@@ -165,16 +165,8 @@
                     <!-- title -->
                     <header class="title-desc">
                         <h2>Services</h2>
-                        <p>Yes, we can do that all at once.</p>
+                        <p>Upcoming services by FLOOPS NETWORK</p>
                     </header>
-
-                    <!-- Action button -->
-                    <div class="cta-btns">
-                        <a class="btn arrow-circ-btn"  href="#contact">
-                            <span class="txt">Contact Us</span>
-                            <span class="arrow-icon"></span>
-                        </a>
-                    </div>
                 </div>
             </div>
             <!-- end of right elements -->
@@ -187,36 +179,38 @@
                         <!-- item -->
                         <li class="column">
                             <div class="item-desc">
-                                <h3>Painting</h3>
+                                <h3>Token Generator </h3>
                                 <div class="desc">
-                                    <p>Lorem ipsum magicum dolor sit amet, consectetur adipiscing elit. Maecenas a sem ultrices neque vehicula fermentum a sit amet nulla.</p>
+                                    <p>Build a smart contract in the easiest way Secure your assets and any other important informations backed with two factor security options available along with in app secure Encrypt Engine to keep your data safe.</p>
+                                    <p>An ERC20/BEP20 Another Network Contract generator that make developers create powerful token in various blockchain networks in simple way. Easy to use Fast & Cheap Smart features Secure platform</p>
                                 </div>
                             </div>
                         </li>
                         <!-- item -->
                         <li class="column">
                             <div class="item-desc">
-                                <h3>Design</h3>
+                                <h3>Token Locker and Launchpad</h3>
                                 <div class="desc">
-                                    <p>Lorem ipsum magicum dolor sit amet, consectetur adipiscing elit. Maecenas a sem ultrices neque vehicula fermentum a sit amet nulla.</p>
+                                    <p>Token Locker and Launchpad Flops Network has no third person features. Token Generator, Token Locker, Launchpad will be integrated with each other on our platform, developers can develop their projects on our platform later with a choice of many networks such as BSC, ETH and $FLOPS. developers can create their tokens on our platform and can lock liquidity on our platform even to launch their tokens on the Flops Network Platform. </p>
                                 </div>
                             </div>
                         </li>
                         <!-- item -->
                         <li class="column">
                             <div class="item-desc">
-                                <h3>Attorney</h3>
+                                <h3>Floops Wallet</h3>
                                 <div class="desc">
-                                    <p>Lorem ipsum magicum dolor sit amet, consectetur adipiscing elit. Maecenas a sem ultrices neque vehicula fermentum a sit amet nulla.</p>
+                                    <p>Floops wallet makes it simple to monitor your progress and token balance in dollars in line with market expectations. When you click on the tokens, you'll get additional information about each token listed in the $FLOOPS Ecosystem. Secure your assets and any other important informations backed with two factor security options available along with in app secure Encrypt Engine to keep your data safe.</p>
                                 </div>
                             </div>
                         </li>
                         <!-- item -->
                         <li class="column">
                             <div class="item-desc">
-                                <h3>Restaurant</h3>
+                                <h3>The chain-related infrastructure</h3>
                                 <div class="desc">
-                                    <p>Lorem ipsum magicum dolor sit amet, consectetur adipiscing elit. Maecenas a sem ultrices neque vehicula fermentum a sit amet nulla.</p>
+                                    <p>Stake , Testnet , RPC $FLOOPS , Multichain Bridge .</p>
+                                    <p>FloopsNetwork guarantees the safety of investors who buy projects born on the $FLOOPS platform, we are ready to act quickly with the reports of investors, If the Developer is proven to be cheating we guarantee that the liquidity they lock on our platform will not be withdrawn and will be returned to investors. and developers who want to use our launchpad will be given KYC requirements before launching on our platform. We will maintain the data of the developers.</p>
                                 </div>
                             </div>
                         </li>
