@@ -10,7 +10,7 @@
   <header class="hh-header header-top">
       <!-- Begin of logo -->
       <div class="logo-wrapper">
-          <a href="index.html">
+          <a href="#">
               <h2 class="logo">
                   <span class="logo-img">
                       <img class="light-logo" src="{{ asset('img/logo-white.png') }}" alt="Logo">
